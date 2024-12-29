@@ -2,6 +2,8 @@
 
 This project is a simple chatbot built using Python, Streamlit, and machine learning techniques. The chatbot can respond to a variety of user inputs based on predefined intents and patterns. It uses a logistic regression model to classify user inputs and generate appropriate responses.
 
+To run this chatbot go to your terminal cd to your chatbot.py file then type: streamlit run chatbot.py
+
 ## Features
 - Responds to common queries like greetings, goodbyes, and thanks.
 - Provides help with Python programming concepts.
